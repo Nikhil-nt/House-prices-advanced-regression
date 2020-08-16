@@ -18,4 +18,3 @@ The steps taken in the project were:
 * Matplolib
 * Seaborn
 * Sklearn
-* 
